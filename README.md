@@ -1,4 +1,5 @@
 # college
+
 this is my first git repository
 <br>
-Author - kripa kalal
+Author - kripa (college)
